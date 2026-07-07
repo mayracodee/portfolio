@@ -1,0 +1,23 @@
+:root{
+
+    /* Background */
+
+    --bg-primary: #050816;
+    --bg-secondary: #111827;
+
+    /* Brand Colors */
+
+    --color-primary: #8B5CF6;
+    --color-primary-dark: #5B21B6;
+
+    --color-secondary: #4F7DFF;
+    --color-accent: #61DAFB;
+
+    /* Text */
+
+    --text-primary: #F8FAFC;
+    --text-secondary: #CBD5E1;
+
+    
+
+}
